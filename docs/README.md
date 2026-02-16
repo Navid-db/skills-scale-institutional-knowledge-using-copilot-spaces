@@ -16,6 +16,10 @@ The three primary roles work in close coordination: Project Managers maintain pr
 
 OctoAcme maintains quality through comprehensive testing practices including unit tests for new logic, integration tests where applicable, end-to-end smoke tests for critical flows, and automated security scanning in CI, supplemented by manual QA for feature acceptance. Risk management is continuous throughout the project lifecycle, with teams maintaining a Risk Register that tracks ID, description, impact, likelihood, owner, mitigation plans, and status. Risks are identified during planning and execution, assessed for impact and likelihood, mitigated through actions and contingency plans, and monitored at weekly syncs. The framework emphasizes transparency through single-source-of-truth documentation, velocity tracking, success metrics monitoring, and clear escalation paths to ensure issues are addressed promptly and effectively.
 
+## Onboarding New Team Members
+
+New team members should begin with the [Team Member Onboarding Checklist](octoacme-onboarding-checklist.md), which provides a structured 30-day plan covering role definitions, cross-role handoffs, and responsibility matrices. This ensures comprehensive understanding of the project management framework and establishes clear collaboration patterns.
+
 ---
 
 *Related: This documentation supports the institutional knowledge initiative outlined in issue #2.*
